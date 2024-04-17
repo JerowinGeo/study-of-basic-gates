@@ -65,8 +65,11 @@ Y= A⊕B
 **PROGRAM**
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
+
 Developed by: Jerowin Geo J A
+
 RegisterNumber: 212223100016
+
  ![image](https://github.com/JerowinGeo/study-of-basic-gates/assets/147139744/6829be81-813d-4ef2-b10a-24c181b76464)
 
  
