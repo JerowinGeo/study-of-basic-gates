@@ -1,4 +1,4 @@
-### study-of-basic-gates
+### Study_of_Basic_Gates
 
 **AIM:** 
 
@@ -65,15 +65,20 @@ Y= A⊕B
 **PROGRAM**
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
+Developed by: Jerowin Geo J A
+RegisterNumber: 212223100016
+ ![image](https://github.com/JerowinGeo/study-of-basic-gates/assets/147139744/6829be81-813d-4ef2-b10a-24c181b76464)
 
- Developed by: RegisterNumber: 
  
 **Logic symbol & Truthtable**
+![image](https://github.com/JerowinGeo/study-of-basic-gates/assets/147139744/0d78d60b-82b9-4971-aecc-0e34fe87b645)
 
 **RTL realization Output:** 
+![image](https://github.com/JerowinGeo/study-of-basic-gates/assets/147139744/a0655357-ecb5-459c-b387-d719f8c79165)
 
 **RTL**
+![image](https://github.com/JerowinGeo/study-of-basic-gates/assets/147139744/83a37eea-6095-4ea8-af1e-4bf0d4f09b6a)
 
 **Result:**
-
+Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
 
